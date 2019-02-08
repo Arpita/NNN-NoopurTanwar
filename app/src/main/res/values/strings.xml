@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">VVDemo</string>
+    <string name="base_url">https://api.vimeo.com/</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="deeplink_redirect_scheme">testlib</string>
+    <string name="deeplink_redirect_host">vimeonetworktestlib.com</string>
+    <string name="access_token">afee26920dba0d9222500bd1dbb2fb73</string>
+
 </resources>
