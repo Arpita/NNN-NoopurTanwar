@@ -1,2 +1,2 @@
-# NNN-NoopurTanwar
-Coding assignment for Noopur
+# NNN-ParthJoshi
+Coding assignment for Parth
